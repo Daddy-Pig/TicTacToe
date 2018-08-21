@@ -1,0 +1,39 @@
+h1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+#controlBar {
+ text-align: center;
+}
+.vertical{
+	border-right: 1px solid green;
+	border-left:  1px solid green;
+}
+.horizontal{
+	border-top: 1px solid green;
+	border-bottom: 1px solid green;
+}
+
+table{
+	margin: auto;
+    /*so it doesnt have border gap, put border collapse*/
+    border-collapse: collapse;
+
+}
+td{
+	width: 100px;
+	height: 100px;
+	/*float: left;*/
+	font-size: 4em;
+	text-align: center;
+   /* border: 2px solid #333;*/
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+   
+        
+        
+        
+        
+        
+        
